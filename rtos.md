@@ -11672,3 +11672,10 @@ int MsgReplyv(int rcvid, int status, const iov_t* riov, int rparts );
 [6] Ю. Вахалия, " UNIX изнутри", "Питер" 2003. (6.5.2, c. 263)
 [7] N. Sadeque, R. I. Mutia, "OKL4 API System Calls"
 282
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Ответы 101-112 (кратко)](answers_101-112.md) | [🏠 README](README.md) | [Источник: Robert Love →](robert_lav.md)

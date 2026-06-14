@@ -22458,3 +22458,10 @@ www.williamspublishing.com и сжатии данных, поиске
 описанной в ней команды.
 ISBN 978-5-8459-1118-6 в продаже
 Стр. 4 96
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Источник: rtos.md](rtos.md) | [🏠 README](README.md) | [Источник: Tanenbaum →](tanenbaum.md)

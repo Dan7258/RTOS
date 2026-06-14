@@ -765,3 +765,10 @@ void Server() {
 | Сложность | Простое | Сложнее |
 
 В Linux POSIX message queues, signals — унилатеральное. RPC, gRPC, REST API — билатеральное.
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Ответы 31-40 (кратко)](answers_31-40.md) | [🏠 README](README.md) | [📘 Подробно](answers_41-50_detailed.md) | [Ответы 51-60 (кратко) →](answers_51-60.md)

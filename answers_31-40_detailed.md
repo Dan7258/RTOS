@@ -1802,3 +1802,10 @@ msgctl(msqid, IPC_RMID, NULL);
 - Реализация через два семафора (`empty`, `full`) + мьютекс.
 - POSIX и System V — стандартные API.
 - Применение: веб-серверы, логирование, игры, микросервисы, GUI.
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Ответы 21-30 (подробно)](answers_21-30_detailed.md) | [🏠 README](README.md) | [📄 Кратко](answers_31-40.md) | [Ответы 41-50 (подробно) →](answers_41-50_detailed.md)

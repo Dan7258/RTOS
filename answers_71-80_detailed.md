@@ -1687,3 +1687,10 @@ return filp->f_op->open(inode, filp);
 - `i_count` — счётчик ссылок, `i_nlink` — жёсткие ссылки.
 - Кешируется для быстрого доступа.
 - Связывается с драйвером через `i_cdev` и `i_fop`.
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Ответы 61-70 (подробно)](answers_61-70_detailed.md) | [🏠 README](README.md) | [📄 Кратко](answers_71-80.md) | [Ответы 81-90 (подробно) →](answers_81-90_detailed.md)

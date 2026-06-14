@@ -2036,3 +2036,10 @@ unsigned long get_jiffies_64(void) {
 - Прикладное применение редкое.
 - Идеи используются в **ticket spinlock** — FIFO-вариант обычного спинлока.
 - В Linux похожая концепция — **seqlock** для read-mostly данных с очень дешёвыми читателями.
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Ответы 41-50 (подробно)](answers_41-50_detailed.md) | [🏠 README](README.md) | [📄 Кратко](answers_51-60.md) | [Ответы 61-70 (подробно) →](answers_61-70_detailed.md)

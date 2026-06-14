@@ -1950,3 +1950,10 @@ void route_del(u32 dest) {
 - RCU — техника для read-mostly: copy-on-write + grace period.
 - Читатели абсолютно бесплатны.
 - Массово применяется в Linux ядре (маршруты, VFS, списки задач).
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Ответы 51-60 (подробно)](answers_51-60_detailed.md) | [🏠 README](README.md) | [📄 Кратко](answers_61-70.md) | [Ответы 71-80 (подробно) →](answers_71-80_detailed.md)

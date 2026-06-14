@@ -1346,3 +1346,10 @@ Kernel:  [sys_read][wait_event_int]                            [copy_to_user]
 - Процесс пробуждается → продолжает с того места → copy_to_user → возврат пользователю.
 - Прозрачно для пользователя: просто `read()` вернул данные.
 - При сигнале → -ERESTARTSYS → возможно рестарт syscall.
+
+
+<!-- NAV-FOOTER -->
+
+---
+
+**Навигация:** [← Ответы 91-100 (кратко)](answers_91-100.md) | [🏠 README](README.md) | [📘 Подробно](answers_101-112_detailed.md) | [Источник: rtos.md →](rtos.md)
